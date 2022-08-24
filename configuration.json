@@ -1,0 +1,28 @@
+{
+    "tickers": {
+        "CNQ" :{
+            "ticker":"CNQ",
+            "percentageOfPortfolio":0.15,
+            "averageDown":0.3,
+            "minimumProfitMultiplier":0.15,
+            "buyingEnabled":0,
+            "securityID":"sec-s-337f1046365d48e5943be9bcad25d010"
+        },
+        "TD" :{
+            "ticker":"TD",
+            "percentageOfPortfolio":0.15,
+            "averageDown":0.3,
+            "minimumProfitMultiplier":0.15,
+            "buyingEnabled":1,
+            "securityID":"sec-s-ea5e995e98774e3d998aa5dae06cf237"
+        },
+        "CAR" :{
+            "ticker":"CAR",
+            "percentageOfPortfolio":0.15,
+            "averageDown":0.3,
+            "minimumProfitMultiplier":0.15,
+            "buyingEnabled":0,
+            "securityID":"sec-s-68a568f36a754ed3b9925256966e6651"
+        }
+    }
+}

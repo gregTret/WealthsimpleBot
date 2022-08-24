@@ -1,0 +1,13 @@
+sec-s-e90effe2699b47acbd69e96ffd0fea97 : suncor
+sec-s-337f1046365d48e5943be9bcad25d010 : CNQ
+sec-s-5405e20fa09946d29c768e0d41a4195d : Enbridge
+
+sec-s-ea5e995e98774e3d998aa5dae06cf237 : TD
+sec-s-68a568f36a754ed3b9925256966e6651 : CAR.UN
+
+sec-s-7fe961cdca1d423e87369e633ec5154d : XIU
+sec-s-c3c7b0025e354d6dacb3389061aaf490 : ZSP
+sec-s-703a5163be4e4a96a99f62f0980fd570 : VSP
+
+
+
